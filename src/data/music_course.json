@@ -1,0 +1,54 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar -fundamentls",
+      "description": "Learn the basics of playing guitar",
+      "price": "99.99",
+      "instructor": "john Doe",
+      "isFeatured": true,
+      "image": "/course/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piyano Fundamentals",
+      "slug": "guitar -fundamentls",
+      "description": "Learn the basics of playing guitar",
+      "price": "99.99",
+      "instructor": "john Doe",
+      "isFeatured0": true,
+      "image": "/course/guitar.jpg"
+    },
+    {
+      "id": 3,
+      "title": "asssfghFundamentals",
+      "slug": "guitar -fundamentls",
+      "description": "Learn the basics of playing guitar",
+      "price": "99.99",
+      "instructor": "john Doe",
+      "isFeatured": true,
+      "image": "/course/guitar.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar -fundamentls",
+      "description": "Learn the basics of playing guitar",
+      "price": "99.99",
+      "instructor": "john Doe",
+      "isFeatured": true,
+      "image": "/course/guitar.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar -fundamentls",
+      "description": "Learn the basics of playing guitar",
+      "price": "99.99",
+      "instructor": "john Doe",
+      "isFeatured": true,
+      "image": "/course/guitar.jpg"
+    }
+  ]
+}
